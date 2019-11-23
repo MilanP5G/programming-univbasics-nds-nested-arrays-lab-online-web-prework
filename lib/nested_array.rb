@@ -38,7 +38,7 @@ end
 
 def matrix_lookup(matrix, row, column)
   
-  return matrix_lookup[1][1]
+  matrix_lookup[1][1]
   
   
   # Return the matrix's content at row and column
