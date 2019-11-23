@@ -48,7 +48,7 @@ def matrix_update(matrix, row, column, new_value)
   
   assembled_matrix[0][2] = "Tiny Ewell"
   
-  result assembled_matrix[0]
+  assembled_matrix[0]
   
   
   # Update the matrix location at row and column to have the value of new_value
